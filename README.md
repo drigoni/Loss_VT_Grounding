@@ -96,9 +96,10 @@ python trainer.py --configs '{"mode":2, "dataset":"referit", "restore": "/home/u
 ```
 
 # Pre-processed datasets, Pre-trained Models and Results
-Unfortunately, the pre-processed data requires more than 100GB and can't be uploaded with the code in the conference.
+Unfortunately, the pre-processed data requires more than 100GB and can't be uploaded with the code.
 However, there are all the files needed to reproduce every result obtained (we have fixed the seeds).
-For the future, we will host all the pre-trained data and make it available for everyone.
+
+To download the pre-trained weights: [https://www.dropbox.com/s/2whyp6jsap3ateo/SAC2022_grounding_pre-trained_models..zip?dl=0](https://www.dropbox.com/s/2whyp6jsap3ateo/SAC2022_grounding_pre-trained_models..zip?dl=0).
 
 # Information
 For any questions and comments, contact [Davide Rigoni](mailto:davide.rigoni.2@phd.unipd.it).
