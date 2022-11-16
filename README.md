@@ -58,6 +58,10 @@ The bottom-up-attention extracted features need to be placed in the following fo
 `refer` is the following repository: [https://github.com/lichengunc/refer](https://github.com/lichengunc/refer). 
 The user just need to download the images from http://bvisionweb1.cs.unc.edu/licheng/referit/data/refclef.zip and unzip them in folder `data/images/saiapr_tc-12`.
 
+**UPDATE (16/11/2022)**: Setting up the environment for visual feature extraction requires some settings that are not easy for many users. If you can't compile it, you can jump to this repository (I haven't had a chance to test it yet): https://github.com/manekiyong/bottom-up-attention-docker
+For the remaining brave ones who prefer to compile the package from scratch, I can only wish you good luck!
+
+
 ### Environment
 To configure the environment:
 ```bash
