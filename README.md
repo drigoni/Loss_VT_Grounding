@@ -1,5 +1,15 @@
 # Loss_VT_Grounding
-This repository contains the code used to generate the results reported in the paper: [A Better Loss for Visual-Textual Grounding]() 
+This repository contains the code used to generate the results reported in the paper: [A Better Loss for Visual-Textual Grounding](https://dl.acm.org/doi/abs/10.1145/3477314.3507047) 
+
+```
+@inproceedings{rigoni2022better,
+  title={A better loss for visual-textual grounding},
+  author={Rigoni, Davide and Serafini, Luciano and Sperduti, Alessandro},
+  booktitle={Proceedings of the 37th ACM/SIGAPP Symposium on Applied Computing},
+  pages={49--57},
+  year={2022}
+}
+```
 
 # Dependencies
 This project uses the `conda` environment.
